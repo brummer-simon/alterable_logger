@@ -1,0 +1,10 @@
+[package]
+name = "profile_logger"
+version = "0.1.0"
+edition = "2021"
+authors = ["Simon Brummer <simon.brummer@posteo.de>"]
+license = "MPL-2.0"
+description = "Example: profile default logger"
+
+[dependencies]
+log = {version = "0.4.20", features = ["std"]}
