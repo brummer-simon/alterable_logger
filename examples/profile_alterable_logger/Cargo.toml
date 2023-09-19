@@ -1,0 +1,11 @@
+[package]
+name = "profile_alterable_logger"
+version = "0.1.0"
+edition = "2021"
+authors = ["Simon Brummer <simon.brummer@posteo.de>"]
+license = "MPL-2.0"
+description = "Example: Profile the alterable logger alterable_logger"
+
+[dependencies]
+log = "0.4.20"
+alterable_logger = {path = "../.."}
