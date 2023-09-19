@@ -1,6 +1,6 @@
 [package]
 name = "alterable_logger"
-version = "0.1.2"
+version = "1.0.0"
 edition = "2021"
 authors = ["Simon Brummer <simon.brummer@posteo.de>"]
 description = "A thin wrapper for \"log\" allowing to replace the actual logger implementation at run time"
